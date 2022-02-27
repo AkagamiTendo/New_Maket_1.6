@@ -1,2 +1,1 @@
-# New_Maket_1.6
-kata
+[Макет 1.6](https://akagamitendo.github.io/1.6_maket/)
